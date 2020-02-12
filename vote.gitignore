@@ -1,4 +1,5 @@
 #css文件夹忽略
 css/
 #images文件夹忽略
-images/
+/images/
+*.php
